@@ -6,7 +6,13 @@
     "username": "sainathmitalakar"
   },
   "records": {
-    "CNAME": "sainathmitalakar.github.io"
+    "github": {
+      "username": "sainathmitalakar",
+      "repository": "ZeroOps-Landing-Page",
+      "branch": "main",
+      "custom": true
+    }
   }
 }
+
 
